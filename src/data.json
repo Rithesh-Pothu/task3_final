@@ -1,0 +1,90 @@
+{
+  "details": [
+    {
+      "card": {
+        "name": "Rithesh",
+        "email": "rithesh.441@gmail.com",
+        "mobile": "8790589699",
+        "description": "student",
+        "image": "rithesh"
+      },
+      "careerobjective": {
+        "info1": "To become a software developer"
+      },
+      "ed1": {
+        "institute": "MITS",
+        "degree": "B-Tech",
+        "passoutyear": "2022",
+        "percentage": "94.7%"
+      },
+      "ed2": {
+        "institute": "Narayana",
+        "degree": "Intermediate",
+        "passoutyear": "2018",
+        "percentage": "96%"
+      },
+      "ed3": {
+        "institute": "Keshava Reddy",
+        "degree": "SSC",
+        "passoutyear": "2016",
+        "percentage": "98.3%"
+      },
+      "tech1": {
+        "title": "programming languages",
+        "info": "c,c++,java,python,R"
+      },
+      "tech2": {
+        "title": "databases",
+        "info": "oracle,sql,mysql,TinyDb,mongoDb"
+      },
+      "tech3": {
+        "title": "operating systems",
+        "info": "unix,windows,Ubuntu"
+      },
+      "career": "I want to become a s/w developer"
+    },
+    {
+      "card": {
+        "name": "Purushottham",
+        "email": "purush.287364@gmail.com",
+        "mobile": "7848939348",
+        "description": "student",
+        "image": "purush"
+      },
+      "careerobjective": {
+        "info1": "To become a software developer"
+      },
+      "ed1": {
+        "institute": "Hindustan",
+        "degree": "B.Tech",
+        "passoutyear": "2022",
+        "percentage": "83%"
+      },
+      "ed2": {
+        "institute": "Narayana",
+        "degree": "Intermediate",
+        "passoutyear": "2018",
+        "percentage": "95%"
+      },
+      "ed3": {
+        "institute": "Keshava Reddy",
+        "degree": "SSC",
+        "passoutyear": "2016",
+        "percentage": "95%"
+      },
+      "tech1": {
+        "title": "programming languages",
+        "info": "c,c++,java,python,R"
+      },
+      "tech2": {
+        "title": "databases",
+        "info": "oracle,sql,mysql,TinyDb,mongoDb"
+      },
+      "tech3": {
+        "title": "operating systems",
+        "info": "unix,windows,Ubuntu"
+      },
+      "career": "I want to become a s/w developer"
+    }
+  ]
+}
